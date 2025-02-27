@@ -1,8 +1,35 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# IoT Data Visualization Dashboard
 
-Currently, two official plugins are available:
+This project is a React.js-based frontend application that dynamically displays IoT sensor data (temperature and humidity) from a JSON file. The application periodically refreshes every 2 seconds, randomly selecting 10 values from a dataset.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tech Stack
+
+**Frontend:** React.js (with functional components & hooks)
+
+**Styling:** Tailwind CSS
+
+**Data Fetching:** Axios
+
+**Charts & Graphs:** Recharts
+
+**Dataset:** JSON (stored in public/data.json)
+
+
+
+## Features
+
+✅ Real-time Data Updates – The table and charts update every 2 seconds.
+
+✅ Tailwind CSS Styling – Ensures a modern and responsive UI.
+
+✅ Charts & Visualization – Uses Recharts to display trends in IoT data.
+
+✅ Randomized Data Selection – Selects a random subset of data each time to simulate real-time changes.
+
+
+
+## Demo
+
+https://melodious-marzipan-4f6552.netlify.app/
+
