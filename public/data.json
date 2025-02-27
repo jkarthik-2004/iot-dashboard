@@ -1,0 +1,62 @@
+[
+    {
+        "timestamp": "2025-02-27T12:00:00Z",
+        "temperature": 22.5,
+        "humidity": 55
+    },
+    {
+        "timestamp": "2025-02-27T12:01:00Z",
+        "temperature": 22.7,
+        "humidity": 56
+    },
+    {
+        "timestamp": "2025-02-27T12:02:00Z",
+        "temperature": 22.6,
+        "humidity": 57
+    },
+    {
+        "timestamp": "2025-02-27T12:03:00Z",
+        "temperature": 22.8,
+        "humidity": 54
+    },
+    {
+        "timestamp": "2025-02-27T12:04:00Z",
+        "temperature": 23.0,
+        "humidity": 58
+    },
+    {
+        "timestamp": "2025-02-27T12:16:00Z",
+        "temperature": 24.1,
+        "humidity": 70
+    },
+    {
+        "timestamp": "2025-02-27T12:17:00Z",
+        "temperature": 24.2,
+        "humidity": 71
+    },
+    {
+        "timestamp": "2025-02-27T12:18:00Z",
+        "temperature": 24.3,
+        "humidity": 72
+    },
+    {
+        "timestamp": "2025-02-27T12:19:00Z",
+        "temperature": 24.4,
+        "humidity": 73
+    },
+    {
+        "timestamp": "2025-02-27T12:23:00Z",
+        "temperature": 24.8,
+        "humidity": 77
+    },
+    {
+        "timestamp": "2025-02-27T12:24:00Z",
+        "temperature": 24.9,
+        "humidity": 78
+    },
+    {
+        "timestamp": "2025-02-27T12:25:00Z",
+        "temperature": 25.0,
+        "humidity": 79
+    }
+]
